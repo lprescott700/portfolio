@@ -1,2 +1,2 @@
-# portfolio
-This is a portfolio of some of the Projects I have worked on.
+# Portfolio
+This is portfolio showcases of some of the Projects I have worked on.
